@@ -1,6 +1,8 @@
 # NFC POKER CHIPTUNE
 # A noisy poker chip with a message to share
 
+![NFC Poker Chips](./img/nfc-chip-both.jpeg)
+
 This board is the pinnacle of my beeping businesscard project.  It is a pocketable version in the dimmensions of a real poker chip.  It has an engergy harvesting NFC EEPROM and WCH CH32V003 MCU.  The MCU is connected to an LED and piezo buzzer.  The two ICs are 8 pin SOIC, and the passives are 0603 so it is not too dificult to hand assemble.
 
 3D files are provided for a snap on poker chip frame.  The design is in three pieces to allow two color with no supports to remove.  The three pieces all fit together securely when snapped around the pcb.
